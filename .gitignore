@@ -1,0 +1,32 @@
+# Python virtual environment
+.venv/
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+
+# Cache directories
+__pycache__/
+.cache/
+
+# Dependency directories
+venv/
+env/
+lib/
+include/
+bin/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
