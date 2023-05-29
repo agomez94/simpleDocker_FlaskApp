@@ -4,7 +4,8 @@
 
 ### Prerequisites
 Python 3.11.3 or a compatible version installed
-Docker installed on your system
+
+Docker desktop installed on your system
 
 ### Steps
 
@@ -39,4 +40,8 @@ Docker installed on your system
 
 ### Conclusion
 
-By following this step-by-step guide, you can easily create Docker images for Flask applications, ensuring consistency and portability. Docker simplifies the deployment process and allows for scalability in different environments. Start containerizing your Flask apps today! 🐳🚀
+By following this step-by-step guide on my medium blog, 
+
+Click Here: [Medium](https://medium.com/@agomezjr/creating-a-docker-image-with-flask-step-by-step-guide-3da493a9f507)
+
+You can easily create Docker images for Flask applications, ensuring consistency and portability. Docker simplifies the deployment process and allows for scalability in different environments. Start containerizing your Flask apps today! 🐳🚀
